@@ -4,16 +4,16 @@
 A full-stack URL shortener and analytics platform. Users can create shortened links, track performance, and view analytics such as click counts, devices, locations, and more.
 
 FOR SIGN/LOGIN USE:
-email : intern@dacoid.com
+email: intern@dacoid.com
 password: Test123
 
 ## Demo
 
-![Screenshot](./Thumbnail1.png)
-![Screenshot](./Thumbnail2.png)
-![Screenshot](./Thumbnail3.png)
-![Screenshot](./Thumbnail4.png)
-![Screenshot](./Thumbnail5.png)
+![Screenshot](./Thumbnail_1.png)
+![Screenshot](./Thumbnail_2.png)
+![Screenshot](./Thumbnail_3.png)
+![Screenshot](./Thumbnail_4.png)
+![Screenshot](./Thumbnail_5.png)
 
 
 
